@@ -5,13 +5,13 @@
     "nombre": "Lubricante",
     "image": "https://www.fullcarweb.com.ar/wp-content/uploads/2020/05/F50-400-cc-ok.jpg",
     "price": 204001
-  }
+  },
   {
     "id": 2,
     "nombre": "Lubricante2",
     "image": "https://www.fullcarweb.com.ar/wp-content/uploads/2020/05/F50-400-cc-ok.jpg",
     "price": 204002
-  }
+  },
   {
     "id": 3,
     "nombre": "Lubricante3",
