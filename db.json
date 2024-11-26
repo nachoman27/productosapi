@@ -2,21 +2,21 @@
   "productos": [
     {
     "id": 1,
-    "nombre": "Lubricante",
-    "image": "https://www.fullcarweb.com.ar/wp-content/uploads/2020/05/F50-400-cc-ok.jpg",
-    "price": "204001"
+    "nombre": "Helix HX5 25W-60",
+    "image": "https://pldistribucion.com.ar/web/wp-content/uploads/foto-2-1.jpeg",
+    "price": "50.450"
   },
   {
     "id": 2,
-    "nombre": "Lubricante2",
-    "image": "",
-    "price": "204002"
+    "nombre": "Helix Ultra 5W-30",
+    "image": "https://pldistribucion.com.ar/web/wp-content/uploads/FOTO-7-3.jpg",
+    "price": "98.000"
   },
   {
     "id": 3,
-    "nombre": "Lubricante3",
-    "image": "",
-    "price": "204003"
+    "nombre": "Helix HX3 15W-40",
+    "image": "https://pldistribucion.com.ar/web/wp-content/uploads/FOTO-5.jpeg",
+    "price": "204.000"
   }
 ]
 }
